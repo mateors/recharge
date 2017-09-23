@@ -113,7 +113,6 @@ E:\GitHub\TeleRecharge\TeleRecharge\bin\Microsoft.AI.DependencyCollector.xml
 E:\GitHub\TeleRecharge\TeleRecharge\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\GitHub\TeleRecharge\TeleRecharge\bin\Microsoft.AI.WindowsServer.xml
 E:\GitHub\TeleRecharge\TeleRecharge\bin\Microsoft.AI.Web.xml
-E:\GitHub\TeleRecharge\TeleRecharge\obj\Debug\TeleRecharge.csprojResolveAssemblyReference.cache
 E:\GitHub\TeleRecharge\TeleRecharge\obj\Debug\TeleRecharge.csproj.CoreCompileInputs.cache
 E:\GitHub\TeleRecharge\TeleRecharge\obj\Debug\TeleRecharge.dll
 E:\GitHub\TeleRecharge\TeleRecharge\obj\Debug\TeleRecharge.pdb

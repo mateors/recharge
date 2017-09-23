@@ -15,7 +15,7 @@ namespace TeleRecharge.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description goes here";
+            ViewBag.Message = "Your application description...";
 
             return View();
         }
